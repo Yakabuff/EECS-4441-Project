@@ -104,7 +104,7 @@ return
 
 
 !`::
-Send {Del}
+Send Del
 return
 
 
