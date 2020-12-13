@@ -5,19 +5,19 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
 !w::
-Send {Up}
+Send Up
 return
 
 !s::
-Send {Down}
+Send Down
 return
 
 !a::
-Send {Left}
+Send Left
 return
 
 !d::
-Send {Right}
+Send Right
 return
 
 !q::
@@ -29,11 +29,11 @@ Send `;
 return
 
 !r::
-Send {PgUp}
+Send PgUp
 return
 
 !f::
-Send {PgDn}
+Send PgDn
 return
 
 !t::
@@ -49,7 +49,7 @@ Send `,
 return
 
 !x::
-Send {END}
+Send END
 return
 
 
@@ -74,7 +74,7 @@ Send {Backspace}
 return
 
 !1::
-Send {+
+Send {+}
 return
 
 !2::
@@ -131,8 +131,6 @@ return
 ^!a::
 Send `"
 return
-
-
 
 
 
