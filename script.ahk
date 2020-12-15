@@ -66,6 +66,10 @@ Send {}}
 return
 
 !Capslock::
+Send Enter
+return
+
+^!Capslock::
 Send {Enter}
 return
 
