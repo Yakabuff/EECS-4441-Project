@@ -39,7 +39,7 @@ Del::
 Send Del
 return
 
-^Enter::
++Enter::
 Send Enter
 return
 
