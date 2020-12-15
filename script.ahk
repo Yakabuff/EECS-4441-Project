@@ -101,20 +101,20 @@ return
 Send `\
 return
 
-^F1::
+!F1::
 Send `0
 return
 
-^F2::
+!F2::
 Send `7
 return
 
 
-^F3::
+!F3::
 Send `8
 return
 
-^F4::
+!F4::
 Send `9
 return
 
