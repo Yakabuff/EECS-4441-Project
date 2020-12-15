@@ -37,7 +37,7 @@ Install AutoHotKey and run the script. Use `script.ahk` for the shifted QWERTY l
 
 - The delete key `Del` is accessed by `!Del`
 
-- The 0, 7, 8, 9 keys are accessed by `+{fn-key}`
+- The 0, 7, 8, 9 keys are accessed by `!{fn-key}`
 
 ![alt text](https://github.com/Yakabuff/EECS-4441-Project/blob/main/keyboard-layout.png)
 
