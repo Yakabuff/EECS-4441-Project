@@ -25,6 +25,8 @@ Load these phrases into: http://www.yorku.ca/mack/ExperimentSoftware/TypingTestE
 
 Install AutoHotKey and run the script. Use `script.ahk` for the shifted QWERTY layout and `normal_qwerty.ahk` for the default qwerty layout.
 
+Set number of phrases to then number of lines in each phrase file.  Set condition code to C00 for brainfuck and c01 for rust-code
+
 # How to use the shifted layout: #
 
 - Symbols at the bottom of the key are activated by `!{key}`
