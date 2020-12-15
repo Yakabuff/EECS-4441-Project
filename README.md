@@ -15,8 +15,8 @@ In the phrase files, there are a few reserved words in which you are supposed to
 - Del
 
 Symbols in the script:
-- + is Shift
-- ^ is Control
-- ! is Alt
+- `+` is Shift
+- `^` is Control
+- `!` is Alt
 
-eg: +^!g is equivalent to pressing Shift-Control-Alt g
+eg: `+^!g` is equivalent to pressing Shift-Control-Alt g
