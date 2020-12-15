@@ -157,7 +157,13 @@ Send `>
 return
 
 
+^!d::
+Send `&
+return
 
+!g::
+Send `^
+return
 
 
 
