@@ -22,3 +22,5 @@ Symbols in the script:
 eg: `+^!g` is equivalent to pressing Shift-Control-Alt g
 
 Load these phrases into: http://www.yorku.ca/mack/ExperimentSoftware/TypingTestExperiment.jar
+
+Install AutoHotKey and load the script. Use `script.ahk` for the shifted QWERTY layout and `normal_qwerty.ahk` for the default qwerty layout.
