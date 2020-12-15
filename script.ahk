@@ -70,7 +70,7 @@ Send {Enter}
 return
 
 !Tab::
-Send {Backspace}
+Send Backspace
 return
 
 !1::
