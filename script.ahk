@@ -148,6 +148,13 @@ return
 Send `"
 return
 
+^!c::
+Send `<
+return
+
+^!v::
+Send `>
+return
 
 
 
