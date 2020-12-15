@@ -33,3 +33,4 @@ Note:
 
 - Make sure to close the script after you're done with a trial
 
+![alt text](https://github.com/Yakabuff/EECS-4441-Project/blob/main/keyboard-layout.png)
