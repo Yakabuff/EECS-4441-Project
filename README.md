@@ -25,6 +25,9 @@ Load these phrases into: http://www.yorku.ca/mack/ExperimentSoftware/TypingTestE
 
 Install AutoHotKey and run the script. Use `script.ahk` for the shifted QWERTY layout and `normal_qwerty.ahk` for the default qwerty layout.
 
+![alt text](https://github.com/Yakabuff/EECS-4441-Project/blob/main/keyboard-layout.png)
+
+
 Note:
 
 - You will notice that some keys like PageUp output the word `PgUp` instead of actually performing its intended task. This is intentional the typing test software does have any use for these keys. 
@@ -33,4 +36,4 @@ Note:
 
 - Make sure to close the script after you're done with a trial
 
-![alt text](https://github.com/Yakabuff/EECS-4441-Project/blob/main/keyboard-layout.png)
+
