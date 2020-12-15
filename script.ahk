@@ -165,8 +165,7 @@ return
 Send `^
 return
 
-Backspace::
-return
+
 
 
 
