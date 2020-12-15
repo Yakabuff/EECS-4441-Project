@@ -1,0 +1,15 @@
+!Hdpi:\89Home$^Down*()Tpi:,{!(7?>Down|q;Backspace
+use std::env;
+use std::path::PathBuf;
+fn main() {
+println!("cargo:rerun-if-changed=build.rs");
+println!("cargo:rustc-env=BUILD_TRIPLE={}", env::
+var("HOST").unwrap());
+let mut rustc = PathBuf::from(env::var_os("RUSTC"
+).unwrap());if rustc.is_relative() {
+for dir in env::split_paths(&env::var_os("PATH")
+.unwrap_or_default()){let absolute=dir.join(&rustc);
+if absolute.exists() {rustc = absolute;break;}}}
+assert!(rustc.is_absolute());
+println!("cargo:rustc-env=RUSTC={}", rustc.to_str().unwrap());
+}
