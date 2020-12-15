@@ -89,6 +89,18 @@ return
 Send `|
 return
 
+^!1::
+Send `(
+return
+
+^!2::
+Send `)
+return
+
+^!3::
+Send `\
+return
+
 +F1::
 Send `0
 return
@@ -135,6 +147,8 @@ return
 ^!a::
 Send `"
 return
+
+
 
 
 

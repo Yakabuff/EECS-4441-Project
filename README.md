@@ -25,6 +25,20 @@ Load these phrases into: http://www.yorku.ca/mack/ExperimentSoftware/TypingTestE
 
 Install AutoHotKey and run the script. Use `script.ahk` for the shifted QWERTY layout and `normal_qwerty.ahk` for the default qwerty layout.
 
+How to use the shifted layout:
+
+- Symbols at the bottom of the key are activated by `!{key}`
+
+- Symbols at the top-right of the key are activated by `^!{key}`
+
+- For the number row:
+  - Symbols at the bottom right of the keys are activated by `!{key}`
+  - Symbols at the top right of the keys are activated by `^!{key}`
+
+- The delete key `Del` is accessed by `!Del`
+
+- The 0, 7, 8, 9 keys are accessed by `+{fn-key}`
+
 ![alt text](https://github.com/Yakabuff/EECS-4441-Project/blob/main/keyboard-layout.png)
 
 
