@@ -162,7 +162,7 @@ Send `&
 return
 
 !g::
-Send `^
+Send ^
 return
 
 
