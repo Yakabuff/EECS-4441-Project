@@ -1,6 +1,6 @@
 # Instructions: #
 
-In the phrase files, there are a few reserved words in which you are supposed to use the hotkeys to type. Do not cheat and type them out manually:
+In the phrase files, there are a few reserved words that you have to use hotkeys to type. Do not cheat and type them out manually:
 
 - Up
 - Down
