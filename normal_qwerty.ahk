@@ -43,6 +43,6 @@ return
 Send Enter
 return
 
-Backspace::
++Backspace::
 Send Backspace
 return
