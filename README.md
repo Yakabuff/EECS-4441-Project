@@ -31,3 +31,5 @@ Note:
 
 - For laptops, you may not be able to access hotkeys involving the function keys eg: `+F1`. You will need to use the `fn` key in conjunction with the modifier in order to use that hotkey.
 
+- Make sure to close the script after you're done with a trial
+
