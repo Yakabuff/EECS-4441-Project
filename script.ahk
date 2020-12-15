@@ -49,12 +49,12 @@ Send `,
 return
 
 !x::
-Send END
+Send End
 return
 
 
 !z::
-Send HOME
+Send Home
 return
 
 ^!q::
