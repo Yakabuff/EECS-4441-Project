@@ -20,3 +20,5 @@ Symbols in the script:
 - `!` is Alt
 
 eg: `+^!g` is equivalent to pressing Shift-Control-Alt g
+
+Load these phrases into: http://www.yorku.ca/mack/ExperimentSoftware/TypingTestExperiment.jar
