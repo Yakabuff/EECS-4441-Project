@@ -47,6 +47,7 @@ Install AutoHotKey and run the script. Use `script.ahk` for the shifted QWERTY l
 - You will notice that some keys like PageUp output the word `PgUp` instead of actually performing its intended task. This is intentional; the typing test software does not have any use for these keys. 
 
 - For laptops, you may not be able to access hotkeys involving the function keys eg: `+F1`. You will need to use the `fn` key in conjunction with the modifier in order to use that hotkey.
+  - If you have a Fn-lock feature on your keyboard, you can use that instead
 
 - Make sure to close the script after you're done with a trial
 
