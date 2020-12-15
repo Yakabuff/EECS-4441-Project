@@ -165,7 +165,9 @@ return
 Send {^}
 return
 
-
+^!g::
+Send `/
+return
 
 
 
